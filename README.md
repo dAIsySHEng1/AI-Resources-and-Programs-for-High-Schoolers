@@ -1,1 +1,1 @@
-# AI-Resources-and-Programs-for-High-Schoolers
+# AI-Resources-and-Programs-for-Middle-and-High-Schoolers
