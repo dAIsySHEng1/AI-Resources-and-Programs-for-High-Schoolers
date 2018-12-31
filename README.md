@@ -1,7 +1,7 @@
 # AI-Resources-and-Programs-for-Middle-and-High-Schoolers
 
-## Step-by-step guide
-- A fantastic article about machine learning steps and resources summarized by kjaisingh: https://github.com/kjaisingh/high-school-guide-to-machine-learning.
+## Guide
+- A fantastic article about machine learning steps and resources for self-learners summarized by kjaisingh: https://github.com/kjaisingh/high-school-guide-to-machine-learning.
 
 ## Camps
 - AI4ALL: http://ai-4-all.org/education/
