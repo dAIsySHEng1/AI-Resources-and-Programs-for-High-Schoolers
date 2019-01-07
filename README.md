@@ -8,6 +8,7 @@ For the AI enthusiast, you may want to check out the following self-paced course
 ## Websites
 - Play with Neural Networks: https://playground.tensorflow.org/ 
 - Explore a collection of fun AI experiments: https://experiments.withgoogle.com/collection/ai
+- Suggestions for machine learning projects on Scratch: https://machinelearningforkids.co.uk/#!/worksheets
     
 ## Camps
 - AI4ALL: http://ai-4-all.org/education/
