@@ -5,7 +5,11 @@ For the AI enthusiast, you may want to check out the following self-paced course
 ## Guide
 - A fantastic article about machine learning steps and resources for self-learners summarized by kjaisingh: https://github.com/kjaisingh/high-school-guide-to-machine-learning.
 
+## Websites
+- Exploration of Neural Networks: https://playground.tensorflow.org/ 
+    
 ## Camps
 - AI4ALL: http://ai-4-all.org/education/
 - DMA: https://www.digitalmediaacademy.org/programming-app-development-camps/ai-machine-learning/
 - iDTech: https://www.idtech.com/courses/artificial-intelligence-and-machine-learning
+
