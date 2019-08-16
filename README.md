@@ -12,6 +12,4 @@ For the AI enthusiast, you may want to check out the following self-paced course
     
 ## Camps
 - AI4ALL: http://ai-4-all.org/education/
-- DMA: https://www.digitalmediaacademy.org/programming-app-development-camps/ai-machine-learning/
-- iDTech: https://www.idtech.com/courses/artificial-intelligence-and-machine-learning
 
